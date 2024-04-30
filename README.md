@@ -1,8 +1,8 @@
-## Hi Folks ! I'm Pedro Quadros
+## Hello Everyone! My name is Pedro Quadros.
 
 
-- Computer Science Student
-- Software Engineer Intern at Portsys 
+- Computer Science Student;
+- Software Engineer Intern at Portsys;
 ## 
 
 
