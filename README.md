@@ -1,10 +1,10 @@
-## Hello there! My name is Pedro Quadros!
+## Hi Folks ! I'm Pedro Quadros
 
 
-- I'm attending graduate school in Computer Science.<br>
-- Software Engineer Intern at Portsys
+- Computer Science Student
+- Software Engineer Intern at Portsys 
+## 
 
-##
 
 <div align="center">
   <a href="https://github.com/PedroQuadrosA">
@@ -14,7 +14,12 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="PedroQuadrosA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="PedroQuadrosA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PedroQuadrosA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="PedroQuadrosA-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="PedroQuadrosA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PedroQuadrosA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   
 </div>
+  
+  ##
+  <div> 
+     <a href="https://www.linkedin.com/in/pedro-quadros-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
